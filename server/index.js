@@ -12,6 +12,9 @@ const PORT = process.env.PORT || 3001;
 app.use(cors());
 app.use(express.json());
 
+// Serve static files from Vite build
+app.use(express.static(path.join(__dirname, '..', 'client', 'dist')));
+
 // Helper to read sensor data
 function readSensorData() {
   try {
@@ -91,6 +94,11 @@ app.get('/api/readings/last-hours/:hours', (req, res) => {
 // Health check
 app.get('/api/health', (req, res) => {
   res.json({ status: 'ok' });
+});
+
+// SPA fallback - serve index.html for all non-API routes
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, '..', 'client', 'dist', 'index.html'));
 });
 
 // Start server
