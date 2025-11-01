@@ -1,0 +1,23 @@
+{
+  "name": "m5stack-air-quality-dashboard",
+  "version": "1.0.0",
+  "description": "Air quality monitoring dashboard for M5Stack sensor",
+  "private": true,
+  "scripts": {
+    "dev": "npm run server:dev & npm run client:dev",
+    "client:dev": "cd client && npm run dev",
+    "server:dev": "cd server && npm run dev",
+    "build": "npm run build:client && npm run build:server",
+    "build:client": "cd client && npm run build",
+    "build:server": "cd server && npm run build",
+    "start": "node server/dist/index.js",
+    "collector": "node data-collector.js"
+  },
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

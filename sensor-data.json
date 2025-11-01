@@ -1,0 +1,1624 @@
+{
+  "readings": [
+    {
+      "timestamp": "2025-11-01T00:27:01.433Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.2999999523162842,
+          "pm2.5": 2.799999952316284,
+          "pm4.0": 4,
+          "pm10.0": 4.599999904632568,
+          "humidity": 74.76000213623047,
+          "temperature": 19.450000762939453,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 379,
+          "humidity": 76.37903594970703,
+          "temperature": 19.4296932220459
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761955511"
+    },
+    {
+      "timestamp": "2025-11-01T00:34:01.379Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.2999999523162842,
+          "pm2.5": 2.799999952316284,
+          "pm4.0": 4,
+          "pm10.0": 4.599999904632568,
+          "humidity": 74.76000213623047,
+          "temperature": 19.450000762939453,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 379,
+          "humidity": 76.37903594970703,
+          "temperature": 19.4296932220459
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761955511"
+    },
+    {
+      "timestamp": "2025-11-01T00:37:01.620Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.2999999523162842,
+          "pm2.5": 2.799999952316284,
+          "pm4.0": 4,
+          "pm10.0": 4.599999904632568,
+          "humidity": 74.76000213623047,
+          "temperature": 19.450000762939453,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 379,
+          "humidity": 76.37903594970703,
+          "temperature": 19.4296932220459
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761955511"
+    },
+    {
+      "timestamp": "2025-11-01T00:44:01.396Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.2999999523162842,
+          "pm2.5": 2.799999952316284,
+          "pm4.0": 4,
+          "pm10.0": 4.599999904632568,
+          "humidity": 74.76000213623047,
+          "temperature": 19.450000762939453,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 379,
+          "humidity": 76.37903594970703,
+          "temperature": 19.4296932220459
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761955511"
+    },
+    {
+      "timestamp": "2025-11-01T00:54:01.369Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.2999999523162842,
+          "pm2.5": 2.799999952316284,
+          "pm4.0": 4,
+          "pm10.0": 4.599999904632568,
+          "humidity": 74.76000213623047,
+          "temperature": 19.450000762939453,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 379,
+          "humidity": 76.37903594970703,
+          "temperature": 19.4296932220459
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761955511"
+    },
+    {
+      "timestamp": "2025-11-01T01:04:01.396Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.2999999523162842,
+          "pm2.5": 2.799999952316284,
+          "pm4.0": 4,
+          "pm10.0": 4.599999904632568,
+          "humidity": 74.76000213623047,
+          "temperature": 19.450000762939453,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 379,
+          "humidity": 76.37903594970703,
+          "temperature": 19.4296932220459
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761955511"
+    },
+    {
+      "timestamp": "2025-11-01T01:14:01.358Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.399999976158142,
+          "pm2.5": 2.5,
+          "pm4.0": 3.5,
+          "pm10.0": 3.9000000953674316,
+          "humidity": 74.0800018310547,
+          "temperature": 19.469999313354492,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 327,
+          "humidity": 75.76715087890625,
+          "temperature": 19.445716857910156
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761959051"
+    },
+    {
+      "timestamp": "2025-11-01T01:24:01.385Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.399999976158142,
+          "pm2.5": 2.5,
+          "pm4.0": 3.5,
+          "pm10.0": 3.9000000953674316,
+          "humidity": 74.0800018310547,
+          "temperature": 19.469999313354492,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 327,
+          "humidity": 75.76715087890625,
+          "temperature": 19.445716857910156
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761959051"
+    },
+    {
+      "timestamp": "2025-11-01T01:34:01.411Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.399999976158142,
+          "pm2.5": 2.5,
+          "pm4.0": 3.5,
+          "pm10.0": 3.9000000953674316,
+          "humidity": 74.0800018310547,
+          "temperature": 19.469999313354492,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 327,
+          "humidity": 75.76715087890625,
+          "temperature": 19.445716857910156
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761959051"
+    },
+    {
+      "timestamp": "2025-11-01T01:44:01.432Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.399999976158142,
+          "pm2.5": 2.5,
+          "pm4.0": 3.5,
+          "pm10.0": 3.9000000953674316,
+          "humidity": 74.0800018310547,
+          "temperature": 19.469999313354492,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 327,
+          "humidity": 75.76715087890625,
+          "temperature": 19.445716857910156
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761959051"
+    },
+    {
+      "timestamp": "2025-11-01T01:54:01.440Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.399999976158142,
+          "pm2.5": 2.5,
+          "pm4.0": 3.5,
+          "pm10.0": 3.9000000953674316,
+          "humidity": 74.0800018310547,
+          "temperature": 19.469999313354492,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 327,
+          "humidity": 75.76715087890625,
+          "temperature": 19.445716857910156
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761959051"
+    },
+    {
+      "timestamp": "2025-11-01T02:04:01.427Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0.699999988079071,
+          "pm2.5": 0.800000011920929,
+          "pm4.0": 0.800000011920929,
+          "pm10.0": 0.800000011920929,
+          "humidity": 73.97000122070312,
+          "temperature": 19.43000030517578,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 333,
+          "humidity": 75.81597900390625,
+          "temperature": 19.41901206970215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761962591"
+    },
+    {
+      "timestamp": "2025-11-01T02:14:01.448Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0.699999988079071,
+          "pm2.5": 0.800000011920929,
+          "pm4.0": 0.800000011920929,
+          "pm10.0": 0.800000011920929,
+          "humidity": 73.97000122070312,
+          "temperature": 19.43000030517578,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 333,
+          "humidity": 75.81597900390625,
+          "temperature": 19.41901206970215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761962591"
+    },
+    {
+      "timestamp": "2025-11-01T02:24:01.448Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0.699999988079071,
+          "pm2.5": 0.800000011920929,
+          "pm4.0": 0.800000011920929,
+          "pm10.0": 0.800000011920929,
+          "humidity": 73.97000122070312,
+          "temperature": 19.43000030517578,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 333,
+          "humidity": 75.81597900390625,
+          "temperature": 19.41901206970215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761962591"
+    },
+    {
+      "timestamp": "2025-11-01T02:34:01.480Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0.699999988079071,
+          "pm2.5": 0.800000011920929,
+          "pm4.0": 0.800000011920929,
+          "pm10.0": 0.800000011920929,
+          "humidity": 73.97000122070312,
+          "temperature": 19.43000030517578,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 333,
+          "humidity": 75.81597900390625,
+          "temperature": 19.41901206970215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761962591"
+    },
+    {
+      "timestamp": "2025-11-01T02:44:01.488Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0.699999988079071,
+          "pm2.5": 0.800000011920929,
+          "pm4.0": 0.800000011920929,
+          "pm10.0": 0.800000011920929,
+          "humidity": 73.97000122070312,
+          "temperature": 19.43000030517578,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 333,
+          "humidity": 75.81597900390625,
+          "temperature": 19.41901206970215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761962591"
+    },
+    {
+      "timestamp": "2025-11-01T02:54:01.506Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0.699999988079071,
+          "pm2.5": 0.800000011920929,
+          "pm4.0": 0.800000011920929,
+          "pm10.0": 0.800000011920929,
+          "humidity": 73.97000122070312,
+          "temperature": 19.43000030517578,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 333,
+          "humidity": 75.81597900390625,
+          "temperature": 19.41901206970215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761962591"
+    },
+    {
+      "timestamp": "2025-11-01T03:04:01.522Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 2,
+          "pm2.5": 3.700000047683716,
+          "pm4.0": 5,
+          "pm10.0": 5.599999904632568,
+          "humidity": 73.62999725341797,
+          "temperature": 19.489999771118164,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 355,
+          "humidity": 75.4619674682617,
+          "temperature": 19.456398010253906
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761966131"
+    },
+    {
+      "timestamp": "2025-11-01T03:14:01.412Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 2,
+          "pm2.5": 3.700000047683716,
+          "pm4.0": 5,
+          "pm10.0": 5.599999904632568,
+          "humidity": 73.62999725341797,
+          "temperature": 19.489999771118164,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 355,
+          "humidity": 75.4619674682617,
+          "temperature": 19.456398010253906
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761966131"
+    },
+    {
+      "timestamp": "2025-11-01T03:24:01.420Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 2,
+          "pm2.5": 3.700000047683716,
+          "pm4.0": 5,
+          "pm10.0": 5.599999904632568,
+          "humidity": 73.62999725341797,
+          "temperature": 19.489999771118164,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 355,
+          "humidity": 75.4619674682617,
+          "temperature": 19.456398010253906
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761966131"
+    },
+    {
+      "timestamp": "2025-11-01T03:34:01.644Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 2,
+          "pm2.5": 3.700000047683716,
+          "pm4.0": 5,
+          "pm10.0": 5.599999904632568,
+          "humidity": 73.62999725341797,
+          "temperature": 19.489999771118164,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 355,
+          "humidity": 75.4619674682617,
+          "temperature": 19.456398010253906
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761966131"
+    },
+    {
+      "timestamp": "2025-11-01T03:44:01.437Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 2,
+          "pm2.5": 3.700000047683716,
+          "pm4.0": 5,
+          "pm10.0": 5.599999904632568,
+          "humidity": 73.62999725341797,
+          "temperature": 19.489999771118164,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 355,
+          "humidity": 75.4619674682617,
+          "temperature": 19.456398010253906
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761966131"
+    },
+    {
+      "timestamp": "2025-11-01T03:54:01.456Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 2,
+          "pm2.5": 3.700000047683716,
+          "pm4.0": 5,
+          "pm10.0": 5.599999904632568,
+          "humidity": 73.62999725341797,
+          "temperature": 19.489999771118164,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 355,
+          "humidity": 75.4619674682617,
+          "temperature": 19.456398010253906
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761966131"
+    },
+    {
+      "timestamp": "2025-11-01T04:04:01.452Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 4.099999904632568,
+          "pm2.5": 7.199999809265137,
+          "pm4.0": 9.699999809265137,
+          "pm10.0": 10.899999618530273,
+          "humidity": 72.0999984741211,
+          "temperature": 19.40999984741211,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 278,
+          "humidity": 73.7468490600586,
+          "temperature": 19.35492515563965
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761969671"
+    },
+    {
+      "timestamp": "2025-11-01T04:14:01.455Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 4.099999904632568,
+          "pm2.5": 7.199999809265137,
+          "pm4.0": 9.699999809265137,
+          "pm10.0": 10.899999618530273,
+          "humidity": 72.0999984741211,
+          "temperature": 19.40999984741211,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 278,
+          "humidity": 73.7468490600586,
+          "temperature": 19.35492515563965
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761969671"
+    },
+    {
+      "timestamp": "2025-11-01T04:24:01.461Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 4.099999904632568,
+          "pm2.5": 7.199999809265137,
+          "pm4.0": 9.699999809265137,
+          "pm10.0": 10.899999618530273,
+          "humidity": 72.0999984741211,
+          "temperature": 19.40999984741211,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 278,
+          "humidity": 73.7468490600586,
+          "temperature": 19.35492515563965
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761969671"
+    },
+    {
+      "timestamp": "2025-11-01T04:34:01.500Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 4.099999904632568,
+          "pm2.5": 7.199999809265137,
+          "pm4.0": 9.699999809265137,
+          "pm10.0": 10.899999618530273,
+          "humidity": 72.0999984741211,
+          "temperature": 19.40999984741211,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 278,
+          "humidity": 73.7468490600586,
+          "temperature": 19.35492515563965
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761969671"
+    },
+    {
+      "timestamp": "2025-11-01T04:44:01.462Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 4.099999904632568,
+          "pm2.5": 7.199999809265137,
+          "pm4.0": 9.699999809265137,
+          "pm10.0": 10.899999618530273,
+          "humidity": 72.0999984741211,
+          "temperature": 19.40999984741211,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 278,
+          "humidity": 73.7468490600586,
+          "temperature": 19.35492515563965
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761969671"
+    },
+    {
+      "timestamp": "2025-11-01T04:54:01.451Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 4.099999904632568,
+          "pm2.5": 7.199999809265137,
+          "pm4.0": 9.699999809265137,
+          "pm10.0": 10.899999618530273,
+          "humidity": 72.0999984741211,
+          "temperature": 19.40999984741211,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 278,
+          "humidity": 73.7468490600586,
+          "temperature": 19.35492515563965
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761969671"
+    },
+    {
+      "timestamp": "2025-11-01T05:04:01.553Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.7999999523162842,
+          "pm2.5": 5.900000095367432,
+          "pm4.0": 9.199999809265137,
+          "pm10.0": 10.800000190734863,
+          "humidity": 71.7699966430664,
+          "temperature": 19.364999771118164,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 299,
+          "humidity": 73.2982406616211,
+          "temperature": 19.3442440032959
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761973211"
+    },
+    {
+      "timestamp": "2025-11-01T05:14:01.523Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.7999999523162842,
+          "pm2.5": 5.900000095367432,
+          "pm4.0": 9.199999809265137,
+          "pm10.0": 10.800000190734863,
+          "humidity": 71.7699966430664,
+          "temperature": 19.364999771118164,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 299,
+          "humidity": 73.2982406616211,
+          "temperature": 19.3442440032959
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761973211"
+    },
+    {
+      "timestamp": "2025-11-01T05:24:01.521Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.7999999523162842,
+          "pm2.5": 5.900000095367432,
+          "pm4.0": 9.199999809265137,
+          "pm10.0": 10.800000190734863,
+          "humidity": 71.7699966430664,
+          "temperature": 19.364999771118164,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 299,
+          "humidity": 73.2982406616211,
+          "temperature": 19.3442440032959
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761973211"
+    },
+    {
+      "timestamp": "2025-11-01T05:34:01.540Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.7999999523162842,
+          "pm2.5": 5.900000095367432,
+          "pm4.0": 9.199999809265137,
+          "pm10.0": 10.800000190734863,
+          "humidity": 71.7699966430664,
+          "temperature": 19.364999771118164,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 299,
+          "humidity": 73.2982406616211,
+          "temperature": 19.3442440032959
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761973211"
+    },
+    {
+      "timestamp": "2025-11-01T05:44:01.521Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.7999999523162842,
+          "pm2.5": 5.900000095367432,
+          "pm4.0": 9.199999809265137,
+          "pm10.0": 10.800000190734863,
+          "humidity": 71.7699966430664,
+          "temperature": 19.364999771118164,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 299,
+          "humidity": 73.2982406616211,
+          "temperature": 19.3442440032959
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761973211"
+    },
+    {
+      "timestamp": "2025-11-01T05:54:01.517Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.7999999523162842,
+          "pm2.5": 5.900000095367432,
+          "pm4.0": 9.199999809265137,
+          "pm10.0": 10.800000190734863,
+          "humidity": 71.7699966430664,
+          "temperature": 19.364999771118164,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 299,
+          "humidity": 73.2982406616211,
+          "temperature": 19.3442440032959
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761973211"
+    },
+    {
+      "timestamp": "2025-11-01T06:04:01.610Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0,
+          "pm2.5": 0,
+          "pm4.0": 0,
+          "pm10.0": 0,
+          "humidity": 71.77999877929688,
+          "temperature": 19.43000030517578,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 349,
+          "humidity": 73.5118637084961,
+          "temperature": 19.37628746032715
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761976751"
+    },
+    {
+      "timestamp": "2025-11-01T06:14:01.521Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0,
+          "pm2.5": 0,
+          "pm4.0": 0,
+          "pm10.0": 0,
+          "humidity": 71.77999877929688,
+          "temperature": 19.43000030517578,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 349,
+          "humidity": 73.5118637084961,
+          "temperature": 19.37628746032715
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761976751"
+    },
+    {
+      "timestamp": "2025-11-01T06:24:01.525Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0,
+          "pm2.5": 0,
+          "pm4.0": 0,
+          "pm10.0": 0,
+          "humidity": 71.77999877929688,
+          "temperature": 19.43000030517578,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 349,
+          "humidity": 73.5118637084961,
+          "temperature": 19.37628746032715
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761976751"
+    },
+    {
+      "timestamp": "2025-11-01T06:34:01.570Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0,
+          "pm2.5": 0,
+          "pm4.0": 0,
+          "pm10.0": 0,
+          "humidity": 71.77999877929688,
+          "temperature": 19.43000030517578,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 349,
+          "humidity": 73.5118637084961,
+          "temperature": 19.37628746032715
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761976751"
+    },
+    {
+      "timestamp": "2025-11-01T06:44:01.595Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0,
+          "pm2.5": 0,
+          "pm4.0": 0,
+          "pm10.0": 0,
+          "humidity": 71.77999877929688,
+          "temperature": 19.43000030517578,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 349,
+          "humidity": 73.5118637084961,
+          "temperature": 19.37628746032715
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761976751"
+    },
+    {
+      "timestamp": "2025-11-01T06:54:01.506Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0,
+          "pm2.5": 0,
+          "pm4.0": 0,
+          "pm10.0": 0,
+          "humidity": 71.77999877929688,
+          "temperature": 19.43000030517578,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 349,
+          "humidity": 73.5118637084961,
+          "temperature": 19.37628746032715
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761976751"
+    },
+    {
+      "timestamp": "2025-11-01T07:04:01.514Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0,
+          "pm2.5": 0,
+          "pm4.0": 0,
+          "pm10.0": 0,
+          "humidity": 70.77999877929688,
+          "temperature": 19.3799991607666,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 313,
+          "humidity": 72.30640411376953,
+          "temperature": 19.33356285095215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761980291"
+    },
+    {
+      "timestamp": "2025-11-01T07:14:01.536Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0,
+          "pm2.5": 0,
+          "pm4.0": 0,
+          "pm10.0": 0,
+          "humidity": 70.77999877929688,
+          "temperature": 19.3799991607666,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 313,
+          "humidity": 72.30640411376953,
+          "temperature": 19.33356285095215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761980291"
+    },
+    {
+      "timestamp": "2025-11-01T07:24:01.545Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0,
+          "pm2.5": 0,
+          "pm4.0": 0,
+          "pm10.0": 0,
+          "humidity": 70.77999877929688,
+          "temperature": 19.3799991607666,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 313,
+          "humidity": 72.30640411376953,
+          "temperature": 19.33356285095215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761980291"
+    },
+    {
+      "timestamp": "2025-11-01T07:34:01.487Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0,
+          "pm2.5": 0,
+          "pm4.0": 0,
+          "pm10.0": 0,
+          "humidity": 70.77999877929688,
+          "temperature": 19.3799991607666,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 313,
+          "humidity": 72.30640411376953,
+          "temperature": 19.33356285095215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761980291"
+    },
+    {
+      "timestamp": "2025-11-01T07:44:01.504Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0,
+          "pm2.5": 0,
+          "pm4.0": 0,
+          "pm10.0": 0,
+          "humidity": 70.77999877929688,
+          "temperature": 19.3799991607666,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 313,
+          "humidity": 72.30640411376953,
+          "temperature": 19.33356285095215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761980291"
+    },
+    {
+      "timestamp": "2025-11-01T07:54:01.493Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 0,
+          "pm2.5": 0,
+          "pm4.0": 0,
+          "pm10.0": 0,
+          "humidity": 70.77999877929688,
+          "temperature": 19.3799991607666,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 313,
+          "humidity": 72.30640411376953,
+          "temperature": 19.33356285095215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761980291"
+    },
+    {
+      "timestamp": "2025-11-01T08:04:01.465Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.5,
+          "pm2.5": 1.5,
+          "pm4.0": 1.5,
+          "pm10.0": 1.5,
+          "humidity": 71.33999633789062,
+          "temperature": 19.450000762939453,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 408,
+          "humidity": 73.04493713378906,
+          "temperature": 19.41901206970215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761983831"
+    },
+    {
+      "timestamp": "2025-11-01T08:14:01.474Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.5,
+          "pm2.5": 1.5,
+          "pm4.0": 1.5,
+          "pm10.0": 1.5,
+          "humidity": 71.33999633789062,
+          "temperature": 19.450000762939453,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 408,
+          "humidity": 73.04493713378906,
+          "temperature": 19.41901206970215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761983831"
+    },
+    {
+      "timestamp": "2025-11-01T08:24:01.481Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.5,
+          "pm2.5": 1.5,
+          "pm4.0": 1.5,
+          "pm10.0": 1.5,
+          "humidity": 71.33999633789062,
+          "temperature": 19.450000762939453,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 408,
+          "humidity": 73.04493713378906,
+          "temperature": 19.41901206970215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761983831"
+    },
+    {
+      "timestamp": "2025-11-01T08:34:01.493Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.5,
+          "pm2.5": 1.5,
+          "pm4.0": 1.5,
+          "pm10.0": 1.5,
+          "humidity": 71.33999633789062,
+          "temperature": 19.450000762939453,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 408,
+          "humidity": 73.04493713378906,
+          "temperature": 19.41901206970215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761983831"
+    },
+    {
+      "timestamp": "2025-11-01T08:44:01.489Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.5,
+          "pm2.5": 1.5,
+          "pm4.0": 1.5,
+          "pm10.0": 1.5,
+          "humidity": 71.33999633789062,
+          "temperature": 19.450000762939453,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 408,
+          "humidity": 73.04493713378906,
+          "temperature": 19.41901206970215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761983831"
+    },
+    {
+      "timestamp": "2025-11-01T08:54:01.540Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.5,
+          "pm2.5": 1.5,
+          "pm4.0": 1.5,
+          "pm10.0": 1.5,
+          "humidity": 71.33999633789062,
+          "temperature": 19.450000762939453,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 408,
+          "humidity": 73.04493713378906,
+          "temperature": 19.41901206970215
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761983831"
+    },
+    {
+      "timestamp": "2025-11-01T09:04:01.545Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.2999999523162842,
+          "pm2.5": 2.700000047683716,
+          "pm4.0": 3.799999952316284,
+          "pm10.0": 4.300000190734863,
+          "humidity": 71.69000244140625,
+          "temperature": 19.4950008392334,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 428,
+          "humidity": 73.4691390991211,
+          "temperature": 19.46173858642578
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761987371"
+    },
+    {
+      "timestamp": "2025-11-01T09:14:01.567Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.2999999523162842,
+          "pm2.5": 2.700000047683716,
+          "pm4.0": 3.799999952316284,
+          "pm10.0": 4.300000190734863,
+          "humidity": 71.69000244140625,
+          "temperature": 19.4950008392334,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 428,
+          "humidity": 73.4691390991211,
+          "temperature": 19.46173858642578
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761987371"
+    },
+    {
+      "timestamp": "2025-11-01T09:24:01.546Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.2999999523162842,
+          "pm2.5": 2.700000047683716,
+          "pm4.0": 3.799999952316284,
+          "pm10.0": 4.300000190734863,
+          "humidity": 71.69000244140625,
+          "temperature": 19.4950008392334,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 428,
+          "humidity": 73.4691390991211,
+          "temperature": 19.46173858642578
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761987371"
+    },
+    {
+      "timestamp": "2025-11-01T09:34:01.562Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.2999999523162842,
+          "pm2.5": 2.700000047683716,
+          "pm4.0": 3.799999952316284,
+          "pm10.0": 4.300000190734863,
+          "humidity": 71.69000244140625,
+          "temperature": 19.4950008392334,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 428,
+          "humidity": 73.4691390991211,
+          "temperature": 19.46173858642578
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761987371"
+    },
+    {
+      "timestamp": "2025-11-01T09:44:01.570Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.2999999523162842,
+          "pm2.5": 2.700000047683716,
+          "pm4.0": 3.799999952316284,
+          "pm10.0": 4.300000190734863,
+          "humidity": 71.69000244140625,
+          "temperature": 19.4950008392334,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 428,
+          "humidity": 73.4691390991211,
+          "temperature": 19.46173858642578
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761987371"
+    },
+    {
+      "timestamp": "2025-11-01T09:54:01.565Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.2999999523162842,
+          "pm2.5": 2.700000047683716,
+          "pm4.0": 3.799999952316284,
+          "pm10.0": 4.300000190734863,
+          "humidity": 71.69000244140625,
+          "temperature": 19.4950008392334,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 428,
+          "humidity": 73.4691390991211,
+          "temperature": 19.46173858642578
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761987371"
+    },
+    {
+      "timestamp": "2025-11-01T10:04:01.586Z",
+      "data": {
+        "sen55": {
+          "pm1.0": 1.5,
+          "pm2.5": 1.5,
+          "pm4.0": 1.5,
+          "pm10.0": 1.5,
+          "humidity": 71.9199981689453,
+          "temperature": 19.469999313354492,
+          "voc": 0,
+          "nox": null
+        },
+        "scd40": {
+          "co2": 416,
+          "humidity": 73.69344329833984,
+          "temperature": 19.47241973876953
+        },
+        "rtc": {
+          "sleep_interval": 3600
+        },
+        "profile": {
+          "nickname": "AirQAirQ"
+        }
+      },
+      "updateTime": "1761990911"
+    }
+  ]
+}
