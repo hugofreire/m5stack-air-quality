@@ -94,6 +94,31 @@ app.get('/api/health', (req, res) => {
 });
 
 // Start server
-app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
+const server = app.listen(PORT, () => {
+  const timestamp = new Date().toISOString();
+  console.log(`\n========================================`);
+  console.log(`[${timestamp}] 🚀 Air Quality Monitor API Server`);
+  console.log(`========================================`);
+  console.log(`✓ Server is running on port: ${PORT}`);
+  console.log(`✓ API URL: http://localhost:${PORT}`);
+  console.log(`✓ Health check: http://localhost:${PORT}/api/health`);
+  console.log(`✓ All readings: http://localhost:${PORT}/api/readings`);
+  console.log(`========================================\n`);
+});
+
+// Graceful shutdown logging
+process.on('SIGTERM', () => {
+  console.log(`\n[${new Date().toISOString()}] ⛔ SIGTERM received, shutting down gracefully...`);
+  server.close(() => {
+    console.log(`[${new Date().toISOString()}] ✓ Server closed`);
+    process.exit(0);
+  });
+});
+
+process.on('SIGINT', () => {
+  console.log(`\n[${new Date().toISOString()}] ⛔ SIGINT received, shutting down gracefully...`);
+  server.close(() => {
+    console.log(`[${new Date().toISOString()}] ✓ Server closed`);
+    process.exit(0);
+  });
 });

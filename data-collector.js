@@ -80,11 +80,34 @@ async function collectData() {
 
 // Initialize and start collection
 initializeDataFile();
-console.log(`Data collector started. Will fetch data every 10 minutes.`);
-console.log(`Saving to: ${DATA_FILE}`);
+
+const timestamp = new Date().toISOString();
+console.log(`\n========================================`);
+console.log(`[${timestamp}] 📊 Air Quality Data Collector`);
+console.log(`========================================`);
+console.log(`✓ Data collector started`);
+console.log(`✓ Fetch interval: 10 minutes`);
+console.log(`✓ Saving to: ${DATA_FILE}`);
+console.log(`✓ API URL: ${API_URL}`);
+console.log(`========================================\n`);
 
 // Fetch immediately on start
 collectData();
 
 // Then fetch at regular intervals
-setInterval(collectData, INTERVAL);
+const intervalId = setInterval(collectData, INTERVAL);
+
+// Graceful shutdown
+process.on('SIGTERM', () => {
+  console.log(`\n[${new Date().toISOString()}] ⛔ SIGTERM received, shutting down gracefully...`);
+  clearInterval(intervalId);
+  console.log(`[${new Date().toISOString()}] ✓ Data collector stopped`);
+  process.exit(0);
+});
+
+process.on('SIGINT', () => {
+  console.log(`\n[${new Date().toISOString()}] ⛔ SIGINT received, shutting down gracefully...`);
+  clearInterval(intervalId);
+  console.log(`[${new Date().toISOString()}] ✓ Data collector stopped`);
+  process.exit(0);
+});
