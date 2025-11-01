@@ -179,6 +179,135 @@ Features:
 - Lazy loading of time-range specific data
 - Optimized CSS with Tailwind's purge feature
 
+## Production Deployment with PM2
+
+### Overview
+
+PM2 is a production-grade process manager for Node.js applications. It allows you to run both the API server and data collector in the background with automatic restart capabilities.
+
+### Prerequisites
+
+- Node.js 16+
+- npm 7+
+- PM2 globally installed: `npm install -g pm2`
+
+### Quick Start on VPS/Ubuntu
+
+1. **Install PM2 globally:**
+   ```bash
+   npm install -g pm2
+   ```
+
+2. **Install project dependencies:**
+   ```bash
+   npm install
+   cd client && npm install && cd ..
+   cd server && npm install && cd ..
+   ```
+
+3. **Start all processes:**
+   ```bash
+   npm run pm2:start
+   ```
+
+4. **Verify processes are running:**
+   ```bash
+   npm run pm2:status
+   ```
+
+### PM2 Commands
+
+```bash
+# Start all processes (API server + data collector)
+npm run pm2:start
+
+# Stop all processes
+npm run pm2:stop
+
+# Restart all processes
+npm run pm2:restart
+
+# View process status
+npm run pm2:status
+
+# View real-time logs
+npm run pm2:logs
+
+# Live process monitoring (CPU, memory)
+npm run pm2:monit
+
+# Remove processes from PM2
+npm run pm2:delete
+```
+
+### Logs
+
+PM2 automatically logs output to:
+- API Server: `./logs/api-out.log` and `./logs/api-error.log`
+- Data Collector: `./logs/collector-out.log` and `./logs/collector-error.log`
+
+View logs in real-time:
+```bash
+pm2 logs
+```
+
+### Make Processes Survive Server Reboot
+
+To keep your application running after Ubuntu server restarts:
+
+```bash
+pm2 startup systemd -u $USER --hp /home/$USER
+pm2 save
+```
+
+Then verify with:
+```bash
+sudo systemctl start pm2-$USER
+sudo systemctl enable pm2-$USER
+```
+
+### Process Configuration
+
+The PM2 configuration is defined in `ecosystem.config.cjs`:
+
+- **API Server (m5stack-api)**
+  - Script: `server/index.js`
+  - Port: 3001
+  - Max memory: 500MB
+  - Auto-restarts on crash with max 10 restarts
+
+- **Data Collector (m5stack-collector)**
+  - Script: `data-collector.js`
+  - Fetches data every 10 minutes
+  - Max memory: 256MB
+  - Auto-restarts on crash with max 5 restarts
+
+### Monitoring
+
+Monitor CPU, memory, and process health:
+```bash
+npm run pm2:monit
+```
+
+### Troubleshooting PM2
+
+**Process not starting:**
+```bash
+pm2 delete ecosystem.config.cjs
+npm run pm2:start
+```
+
+**View detailed logs:**
+```bash
+pm2 logs m5stack-api
+pm2 logs m5stack-collector
+```
+
+**Kill all PM2 processes:**
+```bash
+pm2 kill
+```
+
 ## Troubleshooting
 
 **API Connection Error:**
